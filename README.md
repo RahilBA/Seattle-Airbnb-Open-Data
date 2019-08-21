@@ -17,10 +17,10 @@ For this project, I was intersected in answering the following questions:
 3) Forcast the price rates for future months, for example Jan or Feb 2017?
 
 ### File Description
-These 3 questions are analyzed and answered through 3 different notebooks respectively. Each file includes data preprocessing, data formatting, visualization, descriptive statistics and predictive analysis. But the focus of this study was to follow CRISP-DM process and communicate the result throng a blog post than developing the best predictive solution. 
+These 3 questions are analyzed and answered through 3 different notebooks respectively. Each file includes data preprocessing, data formatting, visualization, descriptive statistics and predictive analysis. But the focus of this study was to follow CRISP-DM process and communicate the result through a blog post than developing the best predictive solution. 
 
 ### Results
-As mentined before, the result and findings are communicated through a blog posted on Medium and can be find here.
+As mentined before, the result and findings are communicated through a blog posted on Medium and can be found here.
 
 ### Installment
 1) Sklearn 
