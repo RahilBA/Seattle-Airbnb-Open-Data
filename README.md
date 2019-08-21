@@ -1,5 +1,4 @@
-![Blog Post Airbnb Seattle](https://komonews.com/news/local/seattle-named-top-3-city-to-live-in-united-states)
-
+# Blog Post Airbnb Seattle
 ### Writing a Data Science blog post for Udacity DSND project 
 
 ### Overview
