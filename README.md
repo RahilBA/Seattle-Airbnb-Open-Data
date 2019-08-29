@@ -34,4 +34,4 @@ As mentined before, the result and findings are communicated through a blog post
 Must give credit to Udacity awesome Data Science course for good course contents and projects, and to Kaggle for the data.Please feel free to use these codes and develop them if you are interested. 
 
 ### Resources
-more details about SMOTE with Imbalance Data can be found [here] https://www.kaggle.com/qianchao/smote-with-imbalance-data 
+more details about SMOTE with Imbalance Data can be found [here](https://www.kaggle.com/qianchao/smote-with-imbalance-data)
