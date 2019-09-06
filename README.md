@@ -19,7 +19,7 @@ To answer each question I followed the CRISP-DM process including:
 5) Evaluate the Results
 
 ### Business understanding 
-Airbnb provides an excellent solution to short term accommodations. But it is time to use data and guide the new hosts to estimate more reasonable prices while maximizing their revenue. Also, help guests to know which accommodation factors they should pay more attention to save some money.I tried to focus on answering questions that might help both sides since every single of us can be both a host or guest. 
+Airbnb provides an excellent solution to short term accommodations. But it is time to use data and guide the new hosts to estimate more reasonable prices while maximizing their revenue. Also, help guests to know which accommodation factors they should pay more attention to save some money.I tried to focus on answering questions that might help both sides since every single of us can be both a host or guest. After exploring more abut Airbnb business I noticed there are 3 key factors that should be considered to answer those 3 questions;  price, revenue, and demand.
 
 ### Data understanding
 Data available:
