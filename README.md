@@ -14,10 +14,9 @@ To answer each question I followed the CRISP-DM process including:
 
 1) Business Understanding
 2) Data Understanding
-3) Data Preparation
-4) Modeling
-5) Evaluation
-6) Deployment
+3) Prepare Data
+4) Data Modeling
+5) Evaluate the Results
 
 ### Business understanding 
 Airbnb provides an excellent solution to short term accommodations. But it is time to use data and guide the new hosts to estimate more reasonable prices while maximizing their revenue. Also, help guests to know which accommodation factors they should pay more attention to save some money.I tried to focus on answering questions that might help both sides since every single of us can be both a host or guest. 
