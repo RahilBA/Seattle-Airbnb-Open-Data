@@ -43,7 +43,10 @@ I also applied resampling techniques, like SMOTE, to be sure the classifier can 
 ### Evaluation and key findings
 
 
-![](pic_4.png)
+![](RandomForest_ImportantFeatures.png)
+
+![](Confusion_Matrix.png)
+![](ROC_Curve.png)
 
 
 
