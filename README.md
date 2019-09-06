@@ -44,7 +44,7 @@ I also applied resampling techniques, like SMOTE, to be sure the classifier can 
 
 
 ![](RandomForest_ImportantFeatures.png)
-
+![](Prophet_Forecasting.png)
 ![](Confusion_Matrix.png)
 ![](ROC_Curve.png)
 
