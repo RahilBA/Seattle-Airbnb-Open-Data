@@ -2,13 +2,28 @@
 ### Writing a Data Science blog post for Udacity DSND project 
 
 ### Overview
-This project is part of Udacity's Data Science Nanodegree course. This repository includes the python codes to answer three questions about Airbnb in Seattle following the CRISP-DM process. The link to the blog post is [here](https://medium.com/@rahil.bagheri/introduction-ba856d622dfc)
+This project is part of Udacity's Data Science Nanodegree course. This repository includes the python codes to answer three questions about Airbnb in Seattle following the CRISP-DM process. The link to the blog post is [here](https://medium.com/@rahil.bagheri/using-data-to-help-seattle-airbnb-hosts-and-guests-make-smarter-decisions-39749cc43ae). 
 
-### Data Content
+The project is following the CRISP-DM process including:
+
+1) Business Understanding
+2) Data Understanding
+3) Data Preparation
+4) Modeling
+5) Evaluation
+6) Deployment
+
+### Business understanding 
+Airbnb provides an excellent solution to short term accommodations. But it is time to use data and guide the new hosts to estimate more reasonable prices while maximizing their revenue. Also, help guests to know which accommodation factors they should pay more attention to save some money.I tried to focus on answering questions that might help both sides since every single of us can be both a host or guest. 
+
+### Data understanding
 The Seattle AirBnB data can be found [here](https://www.kaggle.com/airbnb/seattle). There are 3 differnt csv data files:
 1) Listings, including full descriptions and average review score  
 2) Reviews, including unique id for each reviewer and detailed comments  
 3) Calendar, including listing id and the price and availability for that day
+
+
+
 
 ### Motivation 
 For this project, I was intersected in answering the following questions:
