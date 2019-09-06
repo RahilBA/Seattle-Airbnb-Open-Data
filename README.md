@@ -41,22 +41,18 @@ Based on each objective different Machine Learning and time series techniques ar
 I also applied resampling techniques, like SMOTE, to be sure the classifier can capture all unusual listings.
  
 ### Evaluation and key findings
-
-
+Essential elements in this regressor were number of bedrooms, number of bathrooms, number of beds, number of included guests, number of reviews, season, neighborhood, cancellation fee, and policy strict. In general, these features can be categorized into three broad categories; one is the properties features, previous reviews, and seasonal and weekly demand which I analyze more in the next part.
 ![](RandomForest_ImportantFeatures.png)
+
+The blue line represents the predicted values while the black dots represent the actual daily values . From the plot, it seems that the model can catch the seasonality and fit historical data very well
 ![](Prophet_Forecasting.png)
+
+Out of 520 low performer listings about 466 predicted accurately by this classifier. The area under the ROC curve shows the model accuracy in classifying these two groups for a new dataset is 89%. The followings are confusion matrix and ROC curve which shows how the GBM model performs on the totally new dataset. 
 ![](Confusion_Matrix.png)
 ![](ROC_Curve.png)
 
-
-
-
-
 ### File Description
-These 3 questions are analyzed and answered through 3 different notebooks. Each file includes data preprocessing, data formatting, visualization, descriptive statistics and predictive analysis. But the focus of this study was to follow CRISP-DM process and communicate the result through a blog post than developing the best predictive solution. The developed functions and libraries are repeated within each notebook if necessary.
-
-### Results
-As mentined before, the result and findings are communicated through a blog posted on Medium and can be found here.
+These 3 questions are analyzed and answered through 3 different notebooks. Each file includes data preprocessing, data formatting, visualization, descriptive statistics and predictive analysis. The developed functions and libraries are repeated within each notebook if necessary.
 
 ### Installment
 1) Sklearn 
