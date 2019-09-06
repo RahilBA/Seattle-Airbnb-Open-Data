@@ -43,6 +43,8 @@ I also applied resampling techniques, like SMOTE, to be sure the classifier can 
 ### Evaluation and key findings
 
 
+![](pic_4.png)
+
 
 
 
