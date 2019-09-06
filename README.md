@@ -40,10 +40,10 @@ Based on each objective different Machine Learning and time series techniques ar
 I also applied resampling techniques, like SMOTE, to be sure the classifier can capture all unusual listings.
  
 ### Evaluation and key findings
-Essential elements in this regressor were number of bedrooms, number of bathrooms, number of beds, number of included guests, number of reviews, season, neighborhood, cancellation fee, and policy strict. In general, these features can be categorized into three broad categories; one is the properties features, previous reviews, and seasonal and weekly demand which I analyze more in the next part.
+Essential elements in Random Forest regressor were number of bedrooms, number of bathrooms, number of beds, number of included guests, number of reviews, season, neighborhood, cancellation fee, and policy strict. In general, these features can be categorized into three broad categories; one is the properties features, previous reviews, and seasonal and weekly demand.
 ![](RandomForest_ImportantFeatures.png)
 
-The blue line represents the predicted values while the black dots represent the actual daily values . From the plot, it seems that the model can catch the seasonality and fit historical data very well
+The blue line represents the predicted values while the black dots represent the actual daily values . From the plot, it seems that the model can catch the seasonality and fit historical data very well.
 ![](Prophet_Forecasting.png)
 
 Out of 520 low performer listings about 466 predicted accurately by this classifier. The area under the ROC curve shows the model accuracy in classifying these two groups for a new dataset is 89%. The followings are confusion matrix and ROC curve which shows how the GBM model performs on the totally new dataset. 
