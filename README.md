@@ -2,7 +2,7 @@
 ### Writing a Data Science blog post for Udacity DSND project 
 
 ### Overview
-This project is part of Udacity's Data Science Nanodegree course. This repository includes the python codes to answer three questions about Airbnb in Seattle following the CRISP-DM process. The link to the blog post is [here](https://medium.com/@rahil.bagheri/using-data-to-help-seattle-airbnb-hosts-and-guests-make-smarter-decisions-39749cc43ae). 
+This project is part of Udacity's Data Science Nanodegree course. This repository includes the python codes to answer three questions about Airbnb in Seattle following the CRISP-DM process. The link to the blog post is [here](https://towardsdatascience.com/using-data-to-help-seattle-airbnb-hosts-and-guests-make-smarter-decisions-39749cc43ae). 
 
 ### Motivation 
 For this project, I was intersected in answering the following questions:
